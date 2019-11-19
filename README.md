@@ -16,5 +16,6 @@ My data science reading list
 ## R Books
 
 **An Introduction to Statistical Learning: with Applications in R** -- Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, ISBN 978-1461471370
+
 Freely available at http://faculty.marshall.usc.edu/gareth-james/ISL/
 > An Introduction to Statistical Learning provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex data sets that have emerged in fields ranging from biology to finance to marketing to astrophysics in the past twenty years. This book presents some of the most important modeling and prediction techniques, along with relevant applications.
