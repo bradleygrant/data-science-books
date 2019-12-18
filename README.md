@@ -47,3 +47,10 @@ Replaces SICP or HtDP/HtC (How to Code). You would want to do either 61AS which 
 61AS: https://berkeley-cs61as.github.io/textbook.html 61A with John DeNero: https://inst.eecs.berkeley.edu/~cs61a/sp18/ (Spring 2018 since Fall 2019 is ongoing) 61A with Brian Harvey: https://inst.eecs.berkeley.edu/~cs61a/sp11/ https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter
 Put links to both teachers for 61A because TeachYourselfCS recommends the Harvey lectures. That's probably just because that was before they switched it to Python though
 61AS actually looks like a great fit for replacing everything before Software Construction, but OSSU seems to really like stuff that grades you rather than having you rely on yourself so :shrug:
+
+
+## Math resources
+
+**Linear Algebra and Differential Equations** notes from Berkeley course https://math.berkeley.edu/~giventh/papers/ode.pdf
+
+**Learn Differential Equations: Up Close** with Gilbert Strang and Cleve Moler -- MIT OCW course https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/
